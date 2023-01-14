@@ -111,24 +111,6 @@ h3{
 text-align:center;
 font-size:larger;
 }
-#lol{
-width: 80%;
-border-radius: 4%;
-height: 100px;
-background-color:#F0F0F0;
-
-}
-#btnio{
-   border-radius:10%;
-   text-align: center;
-   display: inline-block;
-   position: relative;
-   left: 45%;
-   right: 45%;
-   padding: 5px;
-   margin: 5px;
-   width: 80px;
-}
 
 .box1{
 width:60%;
@@ -230,6 +212,9 @@ justify-content:center;
   height: 136px;
   width:300px;
   border-radius:50%;
-  border:10px solid #fff
+  
+  border:10px solid #fff;
   }
+   
+
 }
